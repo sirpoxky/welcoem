@@ -1,0 +1,26 @@
+body {
+  width: 500px;
+  height: 500px;
+  background: url("https://garden.spoonflower.com/c/4396605/p/f/m/BO41xtK-vDqeIkDqpboB5iRASMOsWjjrL7HIdm8OuvNOR9d4-SYVCA/Nyan%20Cat%20Fabric%20Background%20for%20Pop%20Tart%20Fans.jpg");
+  color: black;
+  font-family: Verdana; }
+
+  #pagecontainer {
+    background: blue; 
+    border-radius: 100px 100px;
+    width: 1500px;
+    height: auto;
+    padding: 2%;
+    left: 1%;
+    right: 1%;
+    position: absolute;
+    display: table;
+    margin: 0 auto;
+    }
+
+    #title {
+    background: white; 
+    border-radius: 100px 100px;
+    text-align: center;
+    font-size: 40px;
+    }
